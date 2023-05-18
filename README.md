@@ -11,7 +11,7 @@
 
 - How to reach me **abdelrahmanmegahed7@gmail.com**
 
-- PS **I'm kind of a video games fanatic!**
+- PS **I'm kind of a video game fanatic!**
 
 
 <h3 align="left">Connect with me:</h3>
