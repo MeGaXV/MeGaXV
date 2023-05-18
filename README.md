@@ -25,6 +25,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaXV&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaXV&show_icons=true&theme=merko&count_private=true)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MeGaXV&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MeGaXV&theme=merko)](https://git.io/streak-stats)
