@@ -3,11 +3,11 @@
 
 - I’m currently working on **IoT, Embedded, and Software Engineering projects**
 
-- I’m currently learning **Machine Learning/Deep Learning**
+- I’m currently learning **Full-Stack Development**
 
 - I’m looking to collaborate on **open source frontend or backend projects**
 
-- Ask me about **Data Structures and Bioinfomatics**
+- Ask me about **Data Structures and Python**
 
 - How to reach me **abdelrahmanmegahed7@gmail.com**
 
